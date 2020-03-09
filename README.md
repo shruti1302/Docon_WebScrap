@@ -6,6 +6,8 @@ Data of 80 restaurants is fetched from URL https://www.zomato.com/bangalore/sout
 
 ## EXECUTION
 
+`git clone https://github.com/shruti1302/Docon_WebScrap.git`
+
 Check if Python is installed in the system:
 
 `python`
