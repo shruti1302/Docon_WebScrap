@@ -6,7 +6,7 @@ Data of 80 restaurants is fetched from URL https://www.zomato.com/bangalore/sout
 
 ## HOW IT WORKS
 
-- The program checks for empty `restaurant.csv` and `restaurant.json` file in the project directory and transfers the scraped data to the .csv and .json files.
+The program checks for empty `restaurant.csv` and `restaurant.json` file in the project directory and transfers the scraped data to the .csv and .json files.
 
 ## EXECUTION
 
