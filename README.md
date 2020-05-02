@@ -10,7 +10,7 @@ The program checks for `restaurant.csv` and `restaurant.json` file in the projec
 
 ## EXECUTION
 
-`git clone https://github.com/shruti1302/Docon_WebScrap.git`
+`git clone https://github.com/shruti1302/Zomato_WebScrap.git`
 
 Check if Python is installed in the system:
 
